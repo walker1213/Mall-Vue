@@ -1,4 +1,4 @@
-# jdmall
+# Mall-Vue
 
 ## Project setup
 ```
